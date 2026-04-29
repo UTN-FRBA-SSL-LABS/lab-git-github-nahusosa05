@@ -575,7 +575,7 @@ Abrí `operaciones.c`. Vas a ver algo así:
 
 ```c
 int esPar(int n) {
-<<<<<<< HEAD
+  <<<<<<< HEAD
     return (n % 2) == 0; /* version main */
 =======
     return (n & 1) == 0;
